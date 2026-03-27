@@ -193,8 +193,8 @@ The plugin should be understood as:
 
 ## License
 
-GNU Affero General Public License v3.0 (AGPL-3.0)
+MIT
 
-This project is free software. If you modify or publicly deploy Maat Gematria, you must also release the source code of your modifications.
+This project is free software. 
 
 > *Maat Gematria is a research and art project. Its goal is awareness, not exploitation.*
